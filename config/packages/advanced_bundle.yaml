@@ -1,0 +1,2 @@
+advanced:
+    port: '%env(int:EXTENDING_PORT)%'
